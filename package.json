@@ -1,0 +1,50 @@
+{
+  "name": "gf-permutations",
+  "version": "1.0.0",
+  "description": "Generator function for iterating through all permutations of values in an array.",
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfulton26/gf-permutations.git"
+  },
+  "keywords": [
+    "generator",
+    "iterable",
+    "iterator",
+    "permutations"
+  ],
+  "author": "Mark Fulton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfulton26/gf-permutations/issues"
+  },
+  "homepage": "https://github.com/mfulton26/gf-permutations#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-typescript": "^7.7.4",
+    "@types/jest": "^24.0.23",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.3"
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "targets": {
+            "node": "current"
+          }
+        }
+      ],
+      "@babel/preset-typescript"
+    ]
+  }
+}
