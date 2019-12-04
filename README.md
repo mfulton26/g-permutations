@@ -1,4 +1,4 @@
-# gf-permutations
+# gf-permutations [![Build Status](https://travis-ci.org/mfulton26/gf-permutations.svg?branch=master)](https://travis-ci.org/mfulton26/gf-permutations) [![codecov](https://codecov.io/gh/mfulton26/gf-permutations/branch/master/graph/badge.svg)](https://codecov.io/gh/mfulton26/gf-permutations)
 
 > [Generator function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) for iterating through all [permutations](https://en.wikipedia.org/wiki/Permutation) of an array.
 
