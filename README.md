@@ -1,4 +1,4 @@
-# gf-permutations [![Build Status](https://travis-ci.org/mfulton26/gf-permutations.svg?branch=master)](https://travis-ci.org/mfulton26/gf-permutations) [![codecov](https://codecov.io/gh/mfulton26/gf-permutations/branch/master/graph/badge.svg)](https://codecov.io/gh/mfulton26/gf-permutations)
+# g-permutations [![Build Status](https://travis-ci.org/mfulton26/g-permutations.svg?branch=master)](https://travis-ci.org/mfulton26/g-permutations) [![codecov](https://codecov.io/gh/mfulton26/g-permutations/branch/master/graph/badge.svg)](https://codecov.io/gh/mfulton26/g-permutations)
 
 > [Generator function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) for iterating through all [permutations](https://en.wikipedia.org/wiki/Permutation) of an array.
 
@@ -7,7 +7,7 @@ Inspired by [`Guava`](https://github.com/google/guava), this is an implementatio
 ## Install
 
 ```sh
-npm i gf-permutations
+npm i g-permutations
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm i gf-permutations
 ### [Iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol)
 
 ```typescript
-import permutations from "gf-permutations";
+import permutations from "g-permutations";
 
 for (const permutation of permutations(["a", "b", "c"])) {
   console.log(permutation);
@@ -32,7 +32,7 @@ for (const permutation of permutations(["a", "b", "c"])) {
 ### [Iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol)
 
 ```typescript
-import permutations from "gf-permutations";
+import permutations from "g-permutations";
 
 const permutationsGenerator = permutations([1, 2]);
 permutationsGenerator.next(); // { value: [1, 2], done: false };

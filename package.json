@@ -1,5 +1,5 @@
 {
-  "name": "gf-permutations",
+  "name": "g-permutations",
   "version": "1.0.0",
   "description": "Generator function for iterating through all permutations of values in an array.",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mfulton26/gf-permutations.git"
+    "url": "git+https://github.com/mfulton26/g-permutations.git"
   },
   "keywords": [
     "generator",
@@ -22,9 +22,9 @@
   "author": "Mark Fulton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mfulton26/gf-permutations/issues"
+    "url": "https://github.com/mfulton26/g-permutations/issues"
   },
-  "homepage": "https://github.com/mfulton26/gf-permutations#readme",
+  "homepage": "https://github.com/mfulton26/g-permutations#readme",
   "devDependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
