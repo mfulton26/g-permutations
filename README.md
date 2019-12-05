@@ -1,4 +1,4 @@
-# g-permutations [![Actions Status](https://github.com/mfulton26/g-permutations/workflows/Node%20CI/badge.svg)](https://github.com/mfulton26/g-permutations/actions)
+# g-permutations [![Node CI Status](https://github.com/mfulton26/g-permutations/workflows/Node%20CI/badge.svg)](https://github.com/mfulton26/g-permutations/actions?query=workflow%3A%22Node+CI%22)
 
 > [Generator function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) for iterating through all [permutations](https://en.wikipedia.org/wiki/Permutation) of an array.
 
