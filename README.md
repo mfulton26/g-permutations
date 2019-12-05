@@ -1,4 +1,4 @@
-# g-permutations [![Build Status](https://travis-ci.org/mfulton26/g-permutations.svg?branch=master)](https://travis-ci.org/mfulton26/g-permutations) [![codecov](https://codecov.io/gh/mfulton26/g-permutations/branch/master/graph/badge.svg)](https://codecov.io/gh/mfulton26/g-permutations)
+# g-permutations [![Actions Status](https://github.com/mfulton26/g-permutations/workflows/Node%20CI/badge.svg)](https://github.com/mfulton26/g-permutations/actions)
 
 > [Generator function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) for iterating through all [permutations](https://en.wikipedia.org/wiki/Permutation) of an array.
 
